@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ordinalesarvmsi00cathgoog/ordinalesarvmsi00cathgoog_0042.png"; bbox 0 0 3310 5206; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 428 2070 1087 2208">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 428 2070 1087 2208">
+     <span class='ocr_line' id='line_1_1' title="bbox 428 2070 1087 2208; baseline 0.002 -4"><span class='ocrx_word' id='word_1_1' title='bbox 428 2070 791 2205; x_wconf 77' lang='lat' dir='ltr'><strong>ORDINALE</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 855 2072 1087 2208; x_wconf 77' lang='lat' dir='ltr'><strong>SARVM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 697 2498 818 2600">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 697 2498 818 2600">
+     <span class='ocr_line' id='line_1_2' title="bbox 697 2498 818 2600; baseline -0.008 0"><span class='ocrx_word' id='word_1_3' title='bbox 697 2498 818 2600; x_wconf 86' lang='lat' dir='ltr'>SIVE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 227 2878 1276 3017">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 227 2878 1276 3017">
+     <span class='ocr_line' id='line_1_3' title="bbox 227 2878 1276 3017; baseline 0.003 -4"><span class='ocrx_word' id='word_1_4' title='bbox 227 2878 721 3015; x_wconf 84' lang='lat' dir='ltr'><strong>DIRECTORIVM</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 787 2880 1276 3017; x_wconf 80' lang='lat' dir='ltr'><strong>SACERDOTVM.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1660 5206">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1660 5206">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1660 5206; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1660 5206; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
